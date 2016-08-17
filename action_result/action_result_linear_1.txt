@@ -1,0 +1,126 @@
+--------------------p1.txt--------------------
+Cross Validation Accuracy = 41.839%
+--------------------p12.txt--------------------
+Cross Validation Accuracy = 43.4772%
+--------------------p123.txt--------------------
+Cross Validation Accuracy = 43.3648%
+--------------------p1234.txt--------------------
+Cross Validation Accuracy = 43.7069%
+--------------------p12345.txt--------------------
+Cross Validation Accuracy = 43.7144%
+--------------------p123456.txt--------------------
+Cross Validation Accuracy = 43.612%
+--------------------p12346.txt--------------------
+Cross Validation Accuracy = 43.5646%
+--------------------p1235.txt--------------------
+Cross Validation Accuracy = 43.3573%
+--------------------p12356.txt--------------------
+Cross Validation Accuracy = 43.3198%
+--------------------p1236.txt--------------------
+Cross Validation Accuracy = 43.3049%
+--------------------p124.txt--------------------
+Cross Validation Accuracy = 43.5371%
+--------------------p1245.txt--------------------
+Cross Validation Accuracy = 43.5696%
+--------------------p12456.txt--------------------
+Cross Validation Accuracy = 43.5771%
+--------------------p1246.txt--------------------
+Cross Validation Accuracy = 43.5396%
+--------------------p125.txt--------------------
+Cross Validation Accuracy = 43.4372%
+--------------------p1256.txt--------------------
+Cross Validation Accuracy = 43.4197%
+--------------------p126.txt--------------------
+Cross Validation Accuracy = 43.3798%
+--------------------p13.txt--------------------
+Cross Validation Accuracy = 41.1997%
+--------------------p134.txt--------------------
+Cross Validation Accuracy = 41.3595%
+--------------------p1345.txt--------------------
+Cross Validation Accuracy = 41.362%
+--------------------p13456.txt--------------------
+Cross Validation Accuracy = 41.3645%
+--------------------p1346.txt--------------------
+Cross Validation Accuracy = 41.3745%
+--------------------p135.txt--------------------
+Cross Validation Accuracy = 41.2022%
+--------------------p1356.txt--------------------
+Cross Validation Accuracy = 41.2222%
+--------------------p136.txt--------------------
+Cross Validation Accuracy = 41.2296%
+--------------------p14.txt--------------------
+Cross Validation Accuracy = 41.8315%
+--------------------p145.txt--------------------
+Cross Validation Accuracy = 41.8565%
+--------------------p1456.txt--------------------
+Cross Validation Accuracy = 41.8714%
+--------------------p146.txt--------------------
+Cross Validation Accuracy = 41.8565%
+--------------------p15.txt--------------------
+Cross Validation Accuracy = 41.7166%
+--------------------p156.txt--------------------
+Cross Validation Accuracy = 41.6991%
+--------------------p16.txt--------------------
+Cross Validation Accuracy = 41.7341%
+--------------------p2.txt--------------------
+Cross Validation Accuracy = 35.5933%
+--------------------p23.txt--------------------
+Cross Validation Accuracy = 39.9511%
+--------------------p234.txt--------------------
+Cross Validation Accuracy = 40.0559%
+--------------------p2345.txt--------------------
+Cross Validation Accuracy = 40.1733%
+--------------------p23456.txt--------------------
+Cross Validation Accuracy = 40.1908%
+--------------------p2346.txt--------------------
+Cross Validation Accuracy = 40.1483%
+--------------------p235.txt--------------------
+Cross Validation Accuracy = 39.9735%
+--------------------p2356.txt--------------------
+Cross Validation Accuracy = 39.9311%
+--------------------p236.txt--------------------
+Cross Validation Accuracy = 39.8936%
+--------------------p24.txt--------------------
+Cross Validation Accuracy = 35.7407%
+--------------------p245.txt--------------------
+Cross Validation Accuracy = 35.9629%
+--------------------p2456.txt--------------------
+Cross Validation Accuracy = 35.9679%
+--------------------p246.txt--------------------
+Cross Validation Accuracy = 35.8256%
+--------------------p25.txt--------------------
+Cross Validation Accuracy = 35.6533%
+--------------------p256.txt--------------------
+Cross Validation Accuracy = 35.6583%
+--------------------p26.txt--------------------
+Cross Validation Accuracy = 35.6433%
+--------------------p3.txt--------------------
+Cross Validation Accuracy = 38.9596%
+--------------------p34.txt--------------------
+Cross Validation Accuracy = 39.2343%
+--------------------p345.txt--------------------
+Cross Validation Accuracy = 39.2119%
+--------------------p3456.txt--------------------
+Cross Validation Accuracy = 39.2368%
+--------------------p346.txt--------------------
+Cross Validation Accuracy = 39.2543%
+--------------------p35.txt--------------------
+Cross Validation Accuracy = 38.9571%
+--------------------p356.txt--------------------
+Cross Validation Accuracy = 38.9696%
+--------------------p36.txt--------------------
+Cross Validation Accuracy = 38.9946%
+--------------------p4.txt--------------------
+Cross Validation Accuracy = 31.0533%
+--------------------p45.txt--------------------
+Cross Validation Accuracy = 31.2481%
+--------------------p456.txt--------------------
+Cross Validation Accuracy = 31.3031%
+--------------------p46.txt--------------------
+Cross Validation Accuracy = 31.1982%
+--------------------p5.txt--------------------
+Cross Validation Accuracy = 31.0533%
+--------------------p56.txt--------------------
+Cross Validation Accuracy = 31.0558%
+--------------------p6.txt--------------------
+Cross Validation Accuracy = 31.0558%

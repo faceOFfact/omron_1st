@@ -1,0 +1,645 @@
+-----------------1-----------------
+Cross Validation Mean squared error = 0.165371
+Cross Validation Squared correlation coefficient = 0.473318
+-----------------2-----------------
+Cross Validation Mean squared error = 0.197806
+Cross Validation Squared correlation coefficient = 0.479708
+-----------------3-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------4-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------5-----------------
+Cross Validation Mean squared error = 0.252437
+Cross Validation Squared correlation coefficient = 0.479201
+-----------------6-----------------
+Cross Validation Mean squared error = 0.165399
+Cross Validation Squared correlation coefficient = 0.473244
+-----------------7-----------------
+Cross Validation Mean squared error = 3708.43
+Cross Validation Squared correlation coefficient = 0.00162672
+-----------------8-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------9-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------10-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------11-----------------
+Cross Validation Mean squared error = 0.165373
+Cross Validation Squared correlation coefficient = 0.47332
+-----------------12-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------13-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = -0
+-----------------14-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------15-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------16-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------17-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------18-----------------
+Cross Validation Mean squared error = 0.203134
+Cross Validation Squared correlation coefficient = 0.390821
+-----------------19-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 0
+-----------------20-----------------
+Cross Validation Mean squared error = nan
+Cross Validation Squared correlation coefficient = nan
+-----------------21-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------22-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------23-----------------
+Cross Validation Mean squared error = 0.316452
+Cross Validation Squared correlation coefficient = 0.00257608
+-----------------24-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------25-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------26-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------27-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------28-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------29-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 4.35303e-17
+-----------------30-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 4.35303e-17
+-----------------31-----------------
+Cross Validation Mean squared error = 0.30711
+Cross Validation Squared correlation coefficient = 0.000479264
+-----------------32-----------------
+Cross Validation Mean squared error = 0.252431
+Cross Validation Squared correlation coefficient = 0.479181
+-----------------33-----------------
+Cross Validation Mean squared error = 0.00108817
+Cross Validation Squared correlation coefficient = 0.99615
+-----------------34-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------35-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------36-----------------
+Cross Validation Mean squared error = 0.305149
+Cross Validation Squared correlation coefficient = 0.00117467
+-----------------37-----------------
+Cross Validation Mean squared error = 0.16565
+Cross Validation Squared correlation coefficient = 0.434831
+-----------------38-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------39-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------40-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------41-----------------
+Cross Validation Mean squared error = 285.861
+Cross Validation Squared correlation coefficient = 0.263531
+-----------------42-----------------
+Cross Validation Mean squared error = 0.31961
+Cross Validation Squared correlation coefficient = 0.000156672
+-----------------43-----------------
+Cross Validation Mean squared error = 0.252337
+Cross Validation Squared correlation coefficient = 0.479196
+-----------------44-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------45-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------46-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 0
+-----------------47-----------------
+Cross Validation Mean squared error = 8.14146
+Cross Validation Squared correlation coefficient = 0.0419774
+-----------------48-----------------
+Cross Validation Mean squared error = 0.304678
+Cross Validation Squared correlation coefficient = 0.000924599
+-----------------49-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------50-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------51-----------------
+Cross Validation Mean squared error = 3708.43
+Cross Validation Squared correlation coefficient = 0.00162672
+-----------------52-----------------
+Cross Validation Mean squared error = 0.322564
+Cross Validation Squared correlation coefficient = 0.000604869
+-----------------53-----------------
+Cross Validation Mean squared error = 0.252478
+Cross Validation Squared correlation coefficient = 0.479199
+-----------------54-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 0
+-----------------55-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = -0
+-----------------56-----------------
+Cross Validation Mean squared error = 0.304681
+Cross Validation Squared correlation coefficient = 0.000364623
+-----------------57-----------------
+Cross Validation Mean squared error = 0.304714
+Cross Validation Squared correlation coefficient = 0.0108046
+-----------------58-----------------
+Cross Validation Mean squared error = 0.304608
+Cross Validation Squared correlation coefficient = 0.0635045
+-----------------59-----------------
+Cross Validation Mean squared error = 0.304526
+Cross Validation Squared correlation coefficient = 0.166441
+-----------------60-----------------
+Cross Validation Mean squared error = 0.242416
+Cross Validation Squared correlation coefficient = 0.182722
+-----------------61-----------------
+Cross Validation Mean squared error = 0.304673
+Cross Validation Squared correlation coefficient = 0.0038303
+-----------------62-----------------
+Cross Validation Mean squared error = 0.304638
+Cross Validation Squared correlation coefficient = 0.0188206
+-----------------63-----------------
+Cross Validation Mean squared error = 0.304649
+Cross Validation Squared correlation coefficient = 3.12819e-05
+-----------------64-----------------
+Cross Validation Mean squared error = 0.203192
+Cross Validation Squared correlation coefficient = 0.296403
+-----------------65-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------66-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------67-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------68-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------69-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------70-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------71-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------72-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------73-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------74-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------75-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------76-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------77-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------78-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------79-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------80-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------81-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------82-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------83-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------84-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------85-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------86-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------87-----------------
+Cross Validation Mean squared error = 0.304659
+Cross Validation Squared correlation coefficient = 0.0218827
+-----------------88-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------89-----------------
+Cross Validation Mean squared error = 0.304559
+Cross Validation Squared correlation coefficient = 0.00828182
+-----------------90-----------------
+Cross Validation Mean squared error = 0.304611
+Cross Validation Squared correlation coefficient = 0.0298837
+-----------------91-----------------
+Cross Validation Mean squared error = 0.304547
+Cross Validation Squared correlation coefficient = 0.00359655
+-----------------92-----------------
+Cross Validation Mean squared error = 0.304653
+Cross Validation Squared correlation coefficient = 0.00432912
+-----------------93-----------------
+Cross Validation Mean squared error = 0.304495
+Cross Validation Squared correlation coefficient = 0.0138213
+-----------------94-----------------
+Cross Validation Mean squared error = 0.304601
+Cross Validation Squared correlation coefficient = 0.00466723
+-----------------95-----------------
+Cross Validation Mean squared error = 0.304647
+Cross Validation Squared correlation coefficient = 0.00155819
+-----------------96-----------------
+Cross Validation Mean squared error = 0.304643
+Cross Validation Squared correlation coefficient = 0.0487349
+-----------------97-----------------
+Cross Validation Mean squared error = 0.304712
+Cross Validation Squared correlation coefficient = 0.0289995
+-----------------98-----------------
+Cross Validation Mean squared error = 0.304602
+Cross Validation Squared correlation coefficient = 2.46351e-06
+-----------------99-----------------
+Cross Validation Mean squared error = 0.304662
+Cross Validation Squared correlation coefficient = 0.00217062
+-----------------100-----------------
+Cross Validation Mean squared error = 0.304588
+Cross Validation Squared correlation coefficient = 0.00656636
+-----------------101-----------------
+Cross Validation Mean squared error = 0.304651
+Cross Validation Squared correlation coefficient = 0.0152041
+-----------------102-----------------
+Cross Validation Mean squared error = 0.304659
+Cross Validation Squared correlation coefficient = 0.000359745
+-----------------103-----------------
+Cross Validation Mean squared error = 0.304671
+Cross Validation Squared correlation coefficient = 0.00303223
+-----------------104-----------------
+Cross Validation Mean squared error = 0.30467
+Cross Validation Squared correlation coefficient = 0.00114534
+-----------------105-----------------
+Cross Validation Mean squared error = 0.120567
+Cross Validation Squared correlation coefficient = 0.578965
+-----------------106-----------------
+Cross Validation Mean squared error = 0.304668
+Cross Validation Squared correlation coefficient = 0.000634448
+-----------------107-----------------
+Cross Validation Mean squared error = 0.274283
+Cross Validation Squared correlation coefficient = 0.0742529
+-----------------108-----------------
+Cross Validation Mean squared error = 0.304681
+Cross Validation Squared correlation coefficient = 0.00109191
+-----------------109-----------------
+Cross Validation Mean squared error = 0.273644
+Cross Validation Squared correlation coefficient = 0.0795767
+-----------------110-----------------
+Cross Validation Mean squared error = 0.304659
+Cross Validation Squared correlation coefficient = 0.0218827
+-----------------111-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------112-----------------
+Cross Validation Mean squared error = 0.301215
+Cross Validation Squared correlation coefficient = 0.01071
+-----------------113-----------------
+Cross Validation Mean squared error = 0.306686
+Cross Validation Squared correlation coefficient = 0.00107786
+-----------------114-----------------
+Cross Validation Mean squared error = 0.309107
+Cross Validation Squared correlation coefficient = 0.00643972
+-----------------115-----------------
+Cross Validation Mean squared error = 0.300544
+Cross Validation Squared correlation coefficient = 0.0127994
+-----------------116-----------------
+Cross Validation Mean squared error = 0.301253
+Cross Validation Squared correlation coefficient = 0.00657677
+-----------------117-----------------
+Cross Validation Mean squared error = 0.288498
+Cross Validation Squared correlation coefficient = 0.0368387
+-----------------118-----------------
+Cross Validation Mean squared error = 0.307391
+Cross Validation Squared correlation coefficient = 0.00438315
+-----------------119-----------------
+Cross Validation Mean squared error = 0.295483
+Cross Validation Squared correlation coefficient = 0.0216352
+-----------------120-----------------
+Cross Validation Mean squared error = 0.291861
+Cross Validation Squared correlation coefficient = 0.0338983
+-----------------121-----------------
+Cross Validation Mean squared error = 0.251957
+Cross Validation Squared correlation coefficient = 0.166534
+-----------------122-----------------
+Cross Validation Mean squared error = 0.301833
+Cross Validation Squared correlation coefficient = 0.00923185
+-----------------123-----------------
+Cross Validation Mean squared error = 0.303821
+Cross Validation Squared correlation coefficient = 0.000644561
+-----------------124-----------------
+Cross Validation Mean squared error = 0.313807
+Cross Validation Squared correlation coefficient = 0.000512514
+-----------------125-----------------
+Cross Validation Mean squared error = 0.290174
+Cross Validation Squared correlation coefficient = 0.0328268
+-----------------126-----------------
+Cross Validation Mean squared error = 0.299971
+Cross Validation Squared correlation coefficient = 0.0253546
+-----------------127-----------------
+Cross Validation Mean squared error = 0.283826
+Cross Validation Squared correlation coefficient = 0.0611075
+-----------------128-----------------
+Cross Validation Mean squared error = 0.294249
+Cross Validation Squared correlation coefficient = 0.0266527
+-----------------129-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------130-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------131-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------132-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------133-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------134-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------135-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------136-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------137-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------138-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------139-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------140-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------141-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------142-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------143-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------144-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------145-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------146-----------------
+Cross Validation Mean squared error = 281.074
+Cross Validation Squared correlation coefficient = 0.262086
+-----------------147-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------148-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------149-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------150-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 4.89716e-16
+-----------------151-----------------
+Cross Validation Mean squared error = 0.243782
+Cross Validation Squared correlation coefficient = 0.481253
+-----------------152-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 3.76705e-17
+-----------------153-----------------
+Cross Validation Mean squared error = 0.243767
+Cross Validation Squared correlation coefficient = 0.481253
+-----------------154-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 0
+-----------------155-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 0
+-----------------156-----------------
+Cross Validation Mean squared error = 3706.07
+Cross Validation Squared correlation coefficient = 0.00163996
+-----------------157-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------158-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = -4.89716e-16
+-----------------159-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = -4.89716e-16
+-----------------160-----------------
+Cross Validation Mean squared error = 0.244653
+Cross Validation Squared correlation coefficient = 0.487594
+-----------------161-----------------
+Cross Validation Mean squared error = 0.244653
+Cross Validation Squared correlation coefficient = 0.487594
+-----------------162-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------163-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 1.55158e-16
+-----------------164-----------------
+Cross Validation Mean squared error = 0.180953
+Cross Validation Squared correlation coefficient = 0.365801
+-----------------165-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------166-----------------
+Cross Validation Mean squared error = 0.304493
+Cross Validation Squared correlation coefficient = 0.00532489
+-----------------167-----------------
+Cross Validation Mean squared error = 0.304636
+Cross Validation Squared correlation coefficient = 0.0318438
+-----------------168-----------------
+Cross Validation Mean squared error = 0.244178
+Cross Validation Squared correlation coefficient = 0.488175
+-----------------169-----------------
+Cross Validation Mean squared error = 0.243716
+Cross Validation Squared correlation coefficient = 0.488572
+-----------------170-----------------
+Cross Validation Mean squared error = 0.244032
+Cross Validation Squared correlation coefficient = 0.488343
+-----------------171-----------------
+Cross Validation Mean squared error = 0.304622
+Cross Validation Squared correlation coefficient = 0.0667928
+-----------------172-----------------
+Cross Validation Mean squared error = 0.24411
+Cross Validation Squared correlation coefficient = 0.488209
+-----------------173-----------------
+Cross Validation Mean squared error = 0.243716
+Cross Validation Squared correlation coefficient = 0.488572
+-----------------174-----------------
+Cross Validation Mean squared error = 0.244032
+Cross Validation Squared correlation coefficient = 0.488343
+-----------------175-----------------
+Cross Validation Mean squared error = 0.304683
+Cross Validation Squared correlation coefficient = 0.00041653
+-----------------176-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------177-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------178-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------179-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------180-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------181-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------182-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------183-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------184-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------185-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------186-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------187-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------188-----------------
+Cross Validation Mean squared error = 8.14037
+Cross Validation Squared correlation coefficient = 0.0420259
+-----------------189-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------190-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------191-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------192-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 0
+-----------------193-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------194-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------195-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------196-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------197-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------198-----------------
+Cross Validation Mean squared error = 0.250381
+Cross Validation Squared correlation coefficient = 0.479359
+-----------------199-----------------
+Cross Validation Mean squared error = 0.267675
+Cross Validation Squared correlation coefficient = 0.0676537
+-----------------200-----------------
+Cross Validation Mean squared error = 0.230579
+Cross Validation Squared correlation coefficient = 0.202423
+-----------------201-----------------
+Cross Validation Mean squared error = 0.260024
+Cross Validation Squared correlation coefficient = 0.136443
+-----------------202-----------------
+Cross Validation Mean squared error = 0.307018
+Cross Validation Squared correlation coefficient = 0.000304026
+-----------------203-----------------
+Cross Validation Mean squared error = 0.158432
+Cross Validation Squared correlation coefficient = 0.442802
+-----------------204-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------205-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = -0
+-----------------206-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 0.000494462
+-----------------207-----------------
+Cross Validation Mean squared error = 0.304681
+Cross Validation Squared correlation coefficient = 0.002775
+-----------------208-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 0
+-----------------209-----------------
+Cross Validation Mean squared error = 0.304684
+Cross Validation Squared correlation coefficient = 0.000304866
+-----------------210-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 5.44129e-17
+-----------------211-----------------
+Cross Validation Mean squared error = 0.304676
+Cross Validation Squared correlation coefficient = 5.77785e-05
+-----------------212-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = -0
+-----------------213-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = 0
+-----------------214-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
+-----------------215-----------------
+Cross Validation Mean squared error = 0.304679
+Cross Validation Squared correlation coefficient = nan
